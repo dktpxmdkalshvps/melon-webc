@@ -79,7 +79,3 @@
 
 * **Language**: Python
 * **Library**: `tkinter`, `ttk`, `requests`, `BeautifulSoup4`
-
----
-
-**조은별님, 이 내용들을 바탕으로 GitHub 저장소의 README.md를 구성하시면 훌륭한 포트폴리오가 될 것 같습니다.** 혹시 이 파일들을 하나의 통합 프로젝트로 묶어서 전체 개요를 작성해 드릴까요?
